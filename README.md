@@ -4,6 +4,8 @@ General gear description.
 
 Review these notes & then remove the following block of text when creating new gears:
 ```
+SDK gear documentation: https://docs.flywheel.io/user/compute/gears/user_introduction_to_a_sdk_gear/
+
 **NOTE**: our convention for gear naming is:
 - gear name is specified with no spaces
 - include the parent suite at the beginning if possible and the subsequent functionality
