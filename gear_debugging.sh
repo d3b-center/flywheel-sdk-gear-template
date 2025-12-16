@@ -6,8 +6,7 @@
 
 ## cd into the new directory
 
-## Create a configuration file for the gear, add inputs as needed
-# fw-beta gear config --new
+## Add inputs as needed to the existing config file
 # fw-beta gear config -i api_key=$FW_API_KEY
 # fw-beta gear config --input input=test_im/T1_to_SRI.nii.gz
 
